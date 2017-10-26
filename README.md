@@ -1,1 +1,1 @@
-# proxysql-wiki-
+# proxysql wiki 的中文翻译
